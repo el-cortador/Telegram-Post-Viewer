@@ -9,7 +9,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-  return "I'm alive"
+  return "Ку-ку епта"
 
 
 def run():
